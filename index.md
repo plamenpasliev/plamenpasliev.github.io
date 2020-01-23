@@ -4,8 +4,8 @@
 
 ### Data Science Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hiding Bias in Neural Networks](/sample_page)
+<img src="images/feature_importance1.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
