@@ -20,5 +20,6 @@
 
 - [Python Data Science and Machine Learning Bootcamp](https://github.com/plamenpasliev/Python-for-Data-Science-and-Machine-Learning-Bootcamp)
 - [Artificial Intelligence Reinforcement Learning in Python](https://github.com/plamenpasliev/Artificial-Intelligence-Reinforcement-Learning-in-Python)
+
 ---
 
