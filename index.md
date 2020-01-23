@@ -4,7 +4,7 @@
 
 ### Data Science Projects
 
-[Hiding Bias in Neural Networks](/bias_page)
+[Hiding Bias in Neural Networks](https://github.com/plamenpasliev/HidingRacialBias)
 <img src="images/feature_importance1.jpg?raw=true"/>
 
 ---
@@ -14,8 +14,10 @@
 <img src="images/styletransfer.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Training Neural Networks with Manipulated explanations
+- Master thesis work at TU Berlin.
+- Extended current research and showed how popular explanation methods can be manipulated critically.
+<img src="images/puppy_smiley.png?raw=true"/>
 ---
 
 ### Courses 
