@@ -14,7 +14,7 @@
 <img src="images/styletransfer.png?raw=true"/>
 
 ---
-[Training Neural Networks with Manipulated explanations]
+Training Neural Networks with Manipulated explanations
 - Master thesis work at TU Berlin.
 - Extended current research and showed how popular explanation methods can be manipulated critically.
 <img src="images/puppy_smiley.png?raw=true"/>
