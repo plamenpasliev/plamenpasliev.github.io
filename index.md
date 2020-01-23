@@ -4,7 +4,7 @@
 
 ### Data Science Projects
 
-[Hiding Bias in Neural Networks](/sample_page)
+[Hiding Bias in Neural Networks](/bias_page)
 <img src="images/feature_importance1.jpg?raw=true"/>
 
 ---
