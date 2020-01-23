@@ -9,7 +9,9 @@
 
 ---
 [Neural Style Transfer for Furniture](https://www.tensorflow.org/tutorials/generative/style_transfer)
-<img src="images/styletransfer.jfif?raw=true"/>
+- Beat hundreds of engineers and reached the final eight of an internal hackathon at Wayfair.
+- Used Keras and TensorFlow to generate artificial pieces of furniture fitting to an arbitrary home style.
+<img src="images/styletransfer.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
