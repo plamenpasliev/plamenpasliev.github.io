@@ -4,6 +4,7 @@
 
 ### Data Science Projects
 [Berlin Housing Listings](https://github.com/plamenpasliev/BerlinHousing)
+
 [Click here to browse yourself](pages/housing.html)
 <img src="images/example.gif?raw=true"/>
 
