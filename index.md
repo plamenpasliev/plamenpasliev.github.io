@@ -16,6 +16,7 @@
 ---
 Training Neural Networks with Manipulated explanations
 - Master thesis work at TU Berlin.
+- Trained a VGG16 neural net with the CIFAR-10 dataset and achieved top-1 accuracy of 92.46%.
 - Extended current research and showed how popular explanation methods can be manipulated critically.
 <img src="images/puppy_smiley.png?raw=true"/>
 ---
