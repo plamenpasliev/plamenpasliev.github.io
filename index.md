@@ -3,7 +3,7 @@
 ---
 ## Data Science Projects
 ### [Berlin Housing Listings](https://github.com/plamenpasliev/BerlinHousing)
-- Scraped over 3000 listings from https://www.immobilienscout24.de/
+- Scraped over 3000 listings from [immobilienscout24](https://www.immobilienscout24.de/).
 - Used Google Maps API plus folium to make an interactive html page
 #### [Click here to browse yourself](pages/housing.html)
 <img src="images/example.gif?raw=true"/>
