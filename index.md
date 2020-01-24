@@ -3,6 +3,10 @@
 ---
 
 ### Data Science Projects
+[Berlin Housing Listings](https://github.com/plamenpasliev/BerlinHousing)
+[Click here to browse yourself](pages/housing.html)
+<img src="images/example.gif?raw=true"/>
+
 
 [Hiding Bias in Neural Networks](https://github.com/plamenpasliev/HidingRacialBias)
 <img src="images/feature_importance1.jpg?raw=true"/>
