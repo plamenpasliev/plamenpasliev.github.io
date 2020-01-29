@@ -4,8 +4,9 @@
 ## Data Science Projects
 ### [Berlin Housing Listings](https://github.com/plamenpasliev/BerlinHousing)
 - Scraped over 3000 listings from [immobilienscout24](https://www.immobilienscout24.de/).
-- Used Google Maps API in combination with the [folium](https://python-visualization.github.io/folium/) library to make an interactive html page.
-#### [Click here to browse the page yourself](pages/housing.html)
+- Used Google Geocoding API in combination with the [folium](https://python-visualization.github.io/folium/) library to make an interactive html page.
+- Used Google Places API to include stations and supermarkets within 500m radius for every listing.
+### [Click here to browse the page yourself](pages/housing.html)
 <img src="images/example.gif?raw=true"/>
 
 ---
