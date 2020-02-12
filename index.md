@@ -13,7 +13,7 @@
 ### [Hiding Unfair Bias in Neural Networks](https://github.com/plamenpasliev/HidingRacialBias)
 - Predicted if US adults make more or less than 50k annually with over 80% acuracy
 - Showed how an adversary can mask the feature importance of racial/gender features without affecting the prediction accuracy
-<img src="images/feature_importance1.jpg?raw=true"/>
+<img src="images/feature_importance_gif.gif?raw=true"/>
 
 ---
 ### Neural Style Transfer for Furniture
